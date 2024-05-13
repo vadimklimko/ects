@@ -1,0 +1,19 @@
+{
+  "name": "ects-vadym-klymko",
+  "version": "1.0.0",
+  "description": "npm package that converts from the 100-point grading system to the ECTS format",
+  "main": "ects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimklimko/ects.git"
+  },
+  "author": "VadymKlymko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadimklimko/ects/issues"
+  },
+  "homepage": "https://github.com/vadimklimko/ects#readme"
+}
